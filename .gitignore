@@ -1,0 +1,29 @@
+# data files
+input/
+*.csv
+*.xlsx
+*.pdf
+
+# local environments
+.venv/
+venv/
+.streamlit/secrets.toml
+ 
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.env
+.env.*
+ 
+# Build
+build/
+dist/
+*.egg-info/
+.eggs/
+ 
+# pycache
+__pycache__/
+*.py[cod]
+ 
